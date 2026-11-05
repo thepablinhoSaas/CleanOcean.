@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    { "source": "/index.ocean.html", "destination": "/", "permanent": true }
+  ]
+}
